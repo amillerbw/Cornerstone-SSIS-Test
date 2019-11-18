@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Cornerstone SSIS Test", "Cornerstone SSIS Test\Cornerstone SSIS Test.dtproj", "{C8A0EE91-B89B-470D-9653-7E403BE3484F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A0EE91-B89B-470D-9653-7E403BE3484F}.Development|Default.ActiveCfg = Development
+		{C8A0EE91-B89B-470D-9653-7E403BE3484F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6575A7C7-4E72-45EF-A89F-BB93488B5612}
+	EndGlobalSection
+EndGlobal
